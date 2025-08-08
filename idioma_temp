@@ -1,0 +1,2 @@
+$env:DOTNET_CLI_UI_LANGUAGE="pt-BR"
+dotnet run
